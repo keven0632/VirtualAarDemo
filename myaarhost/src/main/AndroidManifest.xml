@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="keven.zcdog.myaarhost">
+
+    <application>
+        <activity android:name=".HostMainActivity">
+        </activity>
+    </application>
+
+</manifest>

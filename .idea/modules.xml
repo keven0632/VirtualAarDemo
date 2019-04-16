@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RetryVirtualApk.iml" filepath="$PROJECT_DIR$/RetryVirtualApk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myaarhost/myaarhost.iml" filepath="$PROJECT_DIR$/myaarhost/myaarhost.iml" />
       <module fileurl="file://$PROJECT_DIR$/pluginvirtual/pluginvirtual.iml" filepath="$PROJECT_DIR$/pluginvirtual/pluginvirtual.iml" />
     </modules>
   </component>

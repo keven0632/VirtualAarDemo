@@ -45,7 +45,7 @@ dependencies {
 
 }
 virtualApk {
-    packageId = 0x6f             // The package id of Resources.
-    targetHost='D:/AndroidDemo/RetryVirtualApk/app' // The path of application module in host project.
+    packageId = 0x62             // The package id of Resources.
+    targetHost='D:/AndroidDemo/RetryVirtualApk/myaarhost' // The path of application module in host project.
     applyHostMapping = true      // [Optional] Default value is true.
 }
