@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RetryVirtualApk.iml" filepath="$PROJECT_DIR$/RetryVirtualApk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginvirtual/pluginvirtual.iml" filepath="$PROJECT_DIR$/pluginvirtual/pluginvirtual.iml" />
+    </modules>
+  </component>
+</project>
