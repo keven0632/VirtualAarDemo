@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-//apply plugin: 'com.didi.virtualapk.host'
+
 android {
     compileSdkVersion 26
     defaultConfig {
